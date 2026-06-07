@@ -4,10 +4,10 @@
 # Regenerated on each release by .github/workflows/runthunder-release.yml
 # — do not edit version/sha256/url by hand.
 cask "runthunder" do
-  version "0.1.0"
-  sha256 "f27e263467eeefa0251a80be43236741c18b8ca6614b22c06db3dd217f423c37"
+  version "0.1.1"
+  sha256 "5261a2d331427e0c1eac95bd150be6d75de6c251fa7b317533382dc5a4e75cbc"
 
-  url "https://github.com/a-company-jp/oh-my-blackthunder/releases/download/v0.1.0/RunThunder-0.1.0-macos.zip"
+  url "https://github.com/a-company-jp/oh-my-blackthunder/releases/download/v0.1.1/RunThunder-0.1.1-macos.zip"
   name "RunThunder"
   desc "RunCat-style macOS menu-bar app with a Black Thunder character (CPU/MEM/NET, Claude usage)"
   homepage "https://github.com/a-company-jp/oh-my-blackthunder"
